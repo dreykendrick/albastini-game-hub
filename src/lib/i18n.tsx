@@ -27,7 +27,7 @@ const dict = {
 
     "hero.eyebrow": "ALBASTINI CARD GAME",
     "hero.title": "The game is on.",
-    "hero.sub": "Play. Compete. Win. The Albastini card game — on your phone and on your table.",
+    "hero.sub": "Play. Compete. Win.  The Albastini card game on your phone and on your table.",
     "hero.badge": "Safari Edition",
 
     "intro.eyebrow": "What is Albastini",
@@ -131,7 +131,7 @@ const dict = {
 
     "hero.eyebrow": "ALBASTINI CARD GAME",
     "hero.title": "Mchezo umeanza.",
-    "hero.sub": "Cheza. Shindana. Shinda. Mchezo wa karata Albastini — simuni na mezani.",
+    "hero.sub": "Cheza. Shindana. Shinda.  Mchezo wa karata Albastini kwenye simu na mezani.",
     "hero.badge": "Safari Edition",
 
     "intro.eyebrow": "Albastini ni nini",
